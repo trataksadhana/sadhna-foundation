@@ -1,0 +1,1 @@
+export default function WhatsApp(){return <a href="https://wa.me/918127120012" target="_blank" rel="noreferrer" aria-label="WhatsApp Sadhna Foundation" className="fixed bottom-5 right-5 z-50 grid h-14 w-14 place-items-center rounded-full bg-[#25D366] text-2xl text-white shadow-xl">◔</a>}
